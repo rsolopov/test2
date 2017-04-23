@@ -11,7 +11,6 @@ namespace WindowsFormsApplication2
 {
     public partial class Form1 : Form
     {
-
         private const int
           MR = 15, // кол-во клеток по вертикали
           MC = 15, // кол-во клеток по горизонтали
