@@ -74,6 +74,7 @@ namespace WindowsFormsApplication2
         // новая игра
         private void newGame()
         {
+
             int row, col;    // индексы клетки
             int n = 0;       // количество поставленных мин
             int k;           // кол-во мин в соседних клетках
